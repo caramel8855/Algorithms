@@ -6,7 +6,7 @@ int EuclidGcd(int a, int b){
         return a;
     }
     else{
-        return EuclidGcd(b, a%b);
+        return EuclidGcd(b, a % b);
     }
 }
 
