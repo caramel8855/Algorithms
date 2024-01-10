@@ -1,4 +1,4 @@
-#include<stdio.h> 
+#include <stdio.h> 
 
 void linearSearch(int arr[], int size, int search ){
     for(int i = 0 ; i < size; i++){
